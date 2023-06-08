@@ -1,4 +1,5 @@
-- 👋 Hi there
+Hi there 👋
+
 - 🔭 I’m looking for job
 - 📝 I’m currently learning Python, Product Analysis
 - 📫 Reach me by: o.i.muratshina@gmail.com
